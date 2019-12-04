@@ -34,8 +34,6 @@
 
 ## Useful Links
 
-[here](https://stsci.app.box.com/s/8wzscdjcusfani0noddlgl5sf2fqdtoj "STScI box")
-
 * [HCI Roadmap article](https://jwst-docs.stsci.edu/methods-and-roadmaps/jwst-high-contrast-imaging/jwst-high-contrast-imaging-roadmap "HCI Roadmap article")
 * [Coronagraphy Visibility Tool (CVT)](https://jwst-docs.stsci.edu/jwst-other-tools/target-visibility-tools/jwst-coronagraphic-visibility-tool-help "Coronagraphy Visibility Tool (CVT)")
   * If you're on Max OS, download and install this [precompiled version](https://github.com/spacetelescope/jwst_coronagraph_visibility/releases/download/0.3.0/jwst_coronagraph_visibility-0.3.0-macos.zip "jwst_coronagraph_visibility-0.3.0-macos.zip")
