@@ -1,1 +1,4 @@
 *.swp
+
+# files that are too large
+Slitless-Spectroscopy-Level2/SlitlessSpec_Level2_Overview_MC19.pdf
